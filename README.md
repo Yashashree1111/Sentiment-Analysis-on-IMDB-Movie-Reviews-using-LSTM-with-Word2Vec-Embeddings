@@ -10,3 +10,11 @@ nltk
 keras
 gensim
 
+Examples:
+
+1]Taking a positive Moview Review
+![image](https://github.com/Yashashree1111/Sentiment-Analysis-on-IMDB-Movie-Reviews-using-LSTM-with-Word2Vec-Embeddings/assets/106982749/6f89afa9-72d5-4ac5-8122-0429b004806d)
+
+2]Taking a Negative Moview Review
+![image](https://github.com/Yashashree1111/Sentiment-Analysis-on-IMDB-Movie-Reviews-using-LSTM-with-Word2Vec-Embeddings/assets/106982749/55180dc7-bf09-4484-b71f-254d3b4cb750)
+
